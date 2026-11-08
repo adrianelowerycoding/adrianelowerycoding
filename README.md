@@ -3,6 +3,7 @@
 <a href="https://linkedin.com/in/adrianelowery">Software and IT Enthusiast</a></h1>
 
 <h2>Software Projects:</h2>
+  - [Documentation Automater](https://github.com/adrianelowerycoding/Documentation-Automater}
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
