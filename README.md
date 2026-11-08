@@ -1,6 +1,8 @@
 <h1>Hi, I'm Adrian!  
   
-<a href="https://linkedin.com/in/adrianelowery">IT and Software Enthusiast</a></h1>
+<a href="https://linkedin.com/in/adrianelowery">Software and IT Enthusiast</a></h1>
+
+<h2>Software Projects:</h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
