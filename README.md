@@ -5,6 +5,7 @@
 <h2>Software Projects:</h2>
 
   - [Documentation Automater](https://github.com/adrianelowerycoding/Documentation-Automater)
+  - [Project Time Tracker](https://github.com/adrianelowerycoding/Project-Time-Tracker)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
